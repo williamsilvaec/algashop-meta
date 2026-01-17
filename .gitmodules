@@ -1,12 +1,12 @@
 [submodule "microservices/ordering"]
 	path = microservices/ordering
 	url = git@github.com:williamsilvaec/algashop-ordering.git
-	branch = main
 [submodule "docs"]
 	path = docs
 	url = git@github.com:williamsilvaec/algashop-docs.git
-	branch = main
 [submodule "microservices/billing"]
 	path = microservices/billing
 	url = git@github.com:williamsilvaec/algashop-billing.git
-	branch = main
+[submodule "microservices/product-catalog"]
+	path = microservices/product-catalog
+	url = git@github.com:williamsilvaec/algashop-product-catalog.git
